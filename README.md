@@ -1,2 +1,1 @@
-# Meetings
-Documentation for meetings
+# Member List
