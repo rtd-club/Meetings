@@ -1,0 +1,2 @@
+# Meetings
+Documentation for meetings
